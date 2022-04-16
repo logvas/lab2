@@ -23,7 +23,7 @@ namespace lab2Space
             Console.WriteLine(NTimes.ToShortSrting());
             NTimes.AddArticles(articles);
             Console.ReadKey();
-            //
+            // change 1
         }
     }
     
